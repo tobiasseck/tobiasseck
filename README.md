@@ -26,8 +26,9 @@ In my professional life, I wear many hats, but some of my most highly acclaimed 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tobiasseck&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasseck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tobiasseck&theme=dark&hide_border=false) |
-|:--:|
+<div style={{ textAlign: 'center' }}>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobiasseck&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tobiasseck&limit=5&theme=monokai&combine_all_yearly_contributions=true)

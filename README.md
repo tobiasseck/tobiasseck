@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Data Expert | Esports Business Specialist | Strategist | Empowering Stakeholders with Analysis, Strategy & Knowledge
+Data Expert | ML Enthusiast | Esports Business Specialist | Strategist | Empowering Stakeholders with Analysis, Strategy & Knowledge
 
 ---
 
